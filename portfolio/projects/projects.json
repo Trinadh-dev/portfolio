@@ -15,8 +15,19 @@
     "image": "portfolio",
     "category": "frontend",
     "links": {
-      "view": "https://github.com/Trinadh-dev/FoodDeliveryApp",
-      "code": "https://github.com/Trinadh-dev/FoodDeliveryApp"
+      "view": "https://trinadh-portfolio.netlify.app/",
+      "code": "https://github.com/Trinadh-dev/portfolio"
+    }
+  }
+  ,
+  {
+    "name": "TIC-TAC-TOE",
+    "desc": "Developed a TIC TAC TOE Game by using Html css  and javascript",
+    "image": "tictactoe",
+    "category": "javascript",
+    "links": {
+      "view": "https://trinadh-dev-tic-tac-toe.netlify.app/",
+      "code": "https://github.com/Trinadh-dev/Tic-Tac-Toe"
     }
   }
 ]
