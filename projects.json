@@ -1,0 +1,33 @@
+[
+  {
+    "name": "Food Delivery Website",
+    "desc": "Developed a Food Delivery App with a Java backend, utilizing JSP for dynamic content generation and JDBC for database interactions, while implementing a MySQL database for efficient data management",
+    "image": "fooddeliverywebsite",
+    "category": "JavaFullStak",
+    "links": {
+      "view": "https://github.com/Trinadh-dev/FoodDeliveryApp",
+      "code": "https://github.com/Trinadh-dev/FoodDeliveryApp"
+    }
+  },
+  {
+    "name": "PortFolio",
+    "desc": "Developed a protfolio to show case my skills,projects and Experences by using Html css  and javascript",
+    "image": "portfolio",
+    "category": "frontend",
+    "links": {
+      "view": "https://trinadh-portfolio.netlify.app/",
+      "code": "https://github.com/Trinadh-dev/portfolio"
+    }
+  }
+  ,
+  {
+    "name": "TIC-TAC-TOE",
+    "desc": "Developed a TIC TAC TOE Game by using Html css  and javascript",
+    "image": "tictactoe",
+    "category": "javascript",
+    "links": {
+      "view": "https://trinadh-dev-tic-tac-toe.netlify.app/",
+      "code": "https://github.com/Trinadh-dev/Tic-Tac-Toe"
+    }
+  }
+]
